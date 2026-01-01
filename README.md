@@ -13,6 +13,6 @@ Tools: Android Studio, Visual Studio Code, Docker Desktop
 
 Quy trình khởi động:
 Bước 1: Clone toàn bộ code về, hiện tại admin đang ở cổng 8080, database ở cổng 8081, có thể điều chỉnh tùy ý.
-Bước 2: Khởi động VSCode và Docker Desktop, khởi động docker ngay nơi chứa docker.yml
+Bước 2: Khởi động VSCode với file "suco" và Docker Desktop, khởi động docker ngay nơi chứa docker.yml
 Bước 3: Cài Maven nếu chưa có, chạy lệnh mvn spring-boot:run. 
-Bước 4: Khởi động Android Studio, kết nối với điện thoại thật (có nhiều cách) và bấm Run.
+Bước 4: Khởi động Android Studio với file "CanhBao", kết nối với điện thoại thật (có nhiều cách) và bấm Run.
